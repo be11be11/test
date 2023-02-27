@@ -11,9 +11,9 @@
 
  <body>
   <div class="main">
-  親要素　main
-	<div class="boxLeft">
-		子要素 boxLeft
+  　　　親要素　main
+	<div class="boxRight">
+		子要素 boxRight
 	</div>
   </div>
 
