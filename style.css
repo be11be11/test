@@ -14,3 +14,9 @@
 	padding: 10px;
 	float: right;
 }
+
+.clearfix:after{
+	content: "";
+	clear: both;
+	display: block;
+}
